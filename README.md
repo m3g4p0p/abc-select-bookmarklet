@@ -8,7 +8,9 @@ All power to ABC! `/../,`
 
 ## Setup
 
-Create a new bookmark in your browser, name it "ABC Select" (or something), and copy/paste the contents of [`dist/main.bookmarklet`](https://raw.githubusercontent.com/m3g4p0p/abc-select-bookmarklet/master/dist/main.bookmarklet) into the URL field. Then you can select some ABC on any page, click the bookmark, and get the dots.
+Create a new bookmark in your browser, name it "ABC Select" (or something), and copy/paste the contents of [`dist/main.bookmarklet`](https://raw.githubusercontent.com/m3g4p0p/abc-select-bookmarklet/master/dist/main.bookmarklet) into the URL field. Then you can select some ABC on any page, click the bookmark, and get the dots:
+
+![screenshot](img/screenshot.png?raw=true)
 
 ## License
 
