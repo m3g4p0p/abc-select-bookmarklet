@@ -12,6 +12,13 @@ Create a new bookmark in your browser, name it "ABC Select" (or something), and 
 
 ![screenshot](img/screenshot.png?raw=true)
 
+## Compatibility
+
+This bookmarklet uses web components; in chrome and opera it will work out of the box, but in firefox you have to enter `about:config` in the search bar, and set the following flags to `true`:
+
+- `dom.webcomponents.customelements.enabled`
+- `dom.webcomponents.shadowdom.enabled`
+
 ## License
 
 MIT @ m3g4p0p
